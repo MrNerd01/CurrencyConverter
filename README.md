@@ -1,3 +1,3 @@
 # CurrencyConverter
 
-![Settings Window](https://raw.github.com/MrNerd01/CurrencyConverter/Screenshot_20170828-232112.png)
+![ScreenShot](https://goo.gl/photos/BKVZ8YNvMVeSqHS6A)
